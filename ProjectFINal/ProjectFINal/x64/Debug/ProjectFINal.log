@@ -1,0 +1,23 @@
+﻿  Input.cpp
+D:\vs codes\ProjectFINal\ProjectFINal\Input.cpp(221,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\vs codes\ProjectFINal\ProjectFINal\Input.cpp(8,11): warning C4101: 'ch_array': unreferenced local variable
+  Source.cpp
+D:\vs codes\ProjectFINal\ProjectFINal\Source.cpp(451,6): warning C4101: 'input': unreferenced local variable
+D:\vs codes\ProjectFINal\ProjectFINal\Source.cpp(486,12): warning C4101: 'date_time': unreferenced local variable
+  TrieTree.cpp
+D:\vs codes\ProjectFINal\ProjectFINal\Vector.h(304,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\vs codes\ProjectFINal\ProjectFINal\Vector.h(300): message : while compiling class template member function 'void Vector<std::string>::push_back(const T &)'
+          with
+          [
+              T=std::string
+          ]
+D:\vs codes\ProjectFINal\ProjectFINal\TrieTree.cpp(181): message : see reference to function template instantiation 'void Vector<std::string>::push_back(const T &)' being compiled
+          with
+          [
+              T=std::string
+          ]
+D:\vs codes\ProjectFINal\ProjectFINal\TrieTree.cpp(181): message : see reference to class template instantiation 'Vector<std::string>' being compiled
+  Generating Code...
+D:\vs codes\ProjectFINal\ProjectFINal\Source.cpp(96): warning C4715: 'findingcode': not all control paths return a value
+D:\vs codes\ProjectFINal\ProjectFINal\Source.cpp(276): warning C4715: 'check': not all control paths return a value
+  ProjectFINal.vcxproj -> D:\vs codes\ProjectFINal\x64\Debug\ProjectFINal.exe
