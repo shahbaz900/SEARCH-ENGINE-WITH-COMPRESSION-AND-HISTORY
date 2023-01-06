@@ -9,6 +9,6 @@ The features of this project are the following:
 
 We Used linkedlist,queue,stack and trie data structure in implementation.
 
-Project Demonstration video: https://drive.google.com/file/d/1-fD_uE_FAHfmHbBjxbbuEOecqbAMLZYF/view?usp=sharing(mic issues,soon would be corrected)
+Project Demonstration video: https://drive.google.com/file/d/1-fD_uE_FAHfmHbBjxbbuEOecqbAMLZYF/view?usp=sharing  (mic issues,soon would be corrected)
 
 For any query you can ping us: newssir@yahoo.com
