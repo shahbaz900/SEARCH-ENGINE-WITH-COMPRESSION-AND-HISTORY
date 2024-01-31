@@ -1,5 +1,5 @@
 # SEARCH-ENGINE-WITH-COMPRESSION-AND-HISTORY
-`
+
 This is a search engine project. Initially, we thought to create a smart notepad or text editor project but then we made something that is similar to search engine and the main functionality is to autocomplete the words same as the google search engine but not exactly like the search engine as it is currently in the initial phases.
 The features of this project are the following:
 1) Auto-complete the words from the given dictionary(which contains different number of words).
@@ -9,6 +9,10 @@ The features of this project are the following:
 
 We Used linkedlist,queue,stack and trie data structure in implementation.
 
-Project Demonstration video: https://drive.google.com/file/d/1-fD_uE_FAHfmHbBjxbbuEOecqbAMLZYF/view?usp=sharing  (mic issues,soon would be corrected)
+# Project Demonstration video:
 
-For any query you can ping us: newssir@yahoo.com
+https://github.com/shahbaz900/SEARCH-ENGINE-WITH-COMPRESSION-AND-HISTORY/assets/118073086/de37c965-d343-4e65-940f-2e3d1bd11424
+
+# Query Or Contact
+
+For any query you can ping me at: shahbazmuhammad754@gmail.com
